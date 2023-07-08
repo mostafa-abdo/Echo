@@ -1,0 +1,17 @@
+
+
+QTableView{
+    alternate-background-color: #484867;
+    background-color: #232339;
+    color: #dadaf4;
+    border-radius: 10px;
+    height:50px;
+
+}
+QTableWidget {
+    border: 1px solid;
+    border-color: #8e8eb3;
+    border-radius: 10px;
+    padding: 1px;
+    border-radius: 10px;
+}

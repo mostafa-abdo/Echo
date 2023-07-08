@@ -1,0 +1,138 @@
+#MainWindow{
+    background-color: white;
+}  
+
+#Body{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    border-top-left-radius:10px;
+    border-bottom-left-radius:10px;
+    border-top-right-radius:10px;
+    border-bottom-right-radius:10px;
+    
+}
+
+#Nav{
+    width: 200px;
+    height: 100px;
+    background-color: #484867;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    border-bottom: 2px solid #7d7d9a;
+}
+
+#Content{
+    width: 200px;
+    height: 100px;
+    background-color: #232339;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;
+}
+
+#Profile{
+    background-color:none;
+}
+
+#Tabs{
+    background-color: none;
+}
+#exitBar{
+    background-color: none;
+}
+
+#Echobtn{
+    background-color: #dcdcf6;
+    border-top-left-radius: 150px;
+    border-bottom-left-radius: 150px;
+    border-top-right-radius: 150px;
+    border-bottom-right-radius: 150px;
+    font-size: 50px;
+    font-family: 'Viga', sans-serif;
+    color: #232339;
+}
+#Exitbtn{
+    background-color: #ed6b60;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+#Minbtn{
+    background-color: #f7c250;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+#Hidebtn{
+    background-color: #64ca57;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+#settings{
+    background-color: #7d7d9a;
+    color: #e7e7f5;
+    font-size: 18px;
+    font-family: 'Viga', sans-serif;
+    border:none;
+    border-bottom-left-radius:5px;
+    border-bottom-right-radius:5px;
+}
+
+#setlabel{
+    color: #e7e7f5;
+    font-size: 18px;
+    font-family: 'Viga', sans-serif;
+    letter-spacing: 2px;
+}
+
+#Tabs{
+    background-color: transparent;
+}
+
+
+
+
+
+#prof{
+    background-color: none;
+
+}
+
+#homeTab,#devTab{
+    color: red;
+    background: transparent;
+    
+}
+
+#hometablabel{
+    font-size: 18px;
+    color: #232339;
+    font-family: 'Agency FB', sans-serif;
+    font-weight: bold;
+}
+
+#devtablabel{
+    font-size: 18px;
+    color: #232339;
+    font-family: 'Agency FB', sans-serif;
+    font-weight: bold;
+}
+
+#fintablabel{
+    font-size: 18px;
+    color: #232339;
+    font-family: 'Agency FB', sans-serif;
+    font-weight: bold;
+}
+#statustablabel{
+    font-size: 18px;
+    color: #232339;
+    font-family: 'Agency FB', sans-serif;
+    font-weight: bold;
+}
